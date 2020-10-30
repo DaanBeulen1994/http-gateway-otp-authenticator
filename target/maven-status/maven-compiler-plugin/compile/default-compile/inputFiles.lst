@@ -1,0 +1,11 @@
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\communicator\GatewayCommunicator.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\exception\TooManyRetriesException.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\exception\NoOtpReplacementFoundException.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\authenticator\ChallengeFactory.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\exception\GatewayCommunicationException.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\otp\OTPConfiguration.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\exception\AttributeNotAvailableException.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\authenticator\HttpGatewayOtpAuthenticatorFactory.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\authenticator\HttpGatewayOtpAuthenticator.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\otp\OTPStateManager.java
+C:\OSS Contrib\keycloak-generic-sms-authenticator\src\main\java\nl\daanbeulen\keycloak\communicator\GatewayRequestConfig.java

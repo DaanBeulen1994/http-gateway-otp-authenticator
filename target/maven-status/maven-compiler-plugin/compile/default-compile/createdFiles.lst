@@ -1,0 +1,11 @@
+nl\daanbeulen\keycloak\authenticator\HttpGatewayOtpAuthenticator.class
+nl\daanbeulen\keycloak\authenticator\ChallengeFactory.class
+nl\daanbeulen\keycloak\otp\OTPConfiguration.class
+nl\daanbeulen\keycloak\exception\NoOtpReplacementFoundException.class
+nl\daanbeulen\keycloak\exception\GatewayCommunicationException.class
+nl\daanbeulen\keycloak\communicator\GatewayRequestConfig.class
+nl\daanbeulen\keycloak\communicator\GatewayCommunicator.class
+nl\daanbeulen\keycloak\exception\TooManyRetriesException.class
+nl\daanbeulen\keycloak\otp\OTPStateManager.class
+nl\daanbeulen\keycloak\authenticator\HttpGatewayOtpAuthenticatorFactory.class
+nl\daanbeulen\keycloak\exception\AttributeNotAvailableException.class
